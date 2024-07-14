@@ -7,7 +7,9 @@ export default defineNuxtConfig({
     "shadcn-nuxt",
     "@nuxt/icon",
     "@vueuse/nuxt",
-    "@nuxtjs/google-fonts"
+    "@nuxtjs/google-fonts",
+    '@pinia/nuxt',
+    "@nuxt/image"
   ],
   shadcn: {
     /**
