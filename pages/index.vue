@@ -1,3 +1,5 @@
 <template>
- <h1 class="text-5xl font-bold p-20">Home-Page</h1>
+ <main id="home">
+  <nuxt-img src="/favicon.svg" />
+ </main>
 </template>
